@@ -922,7 +922,7 @@ a.move-top span{
 }
 @media(max-width:600px) {
 	.quote {
-		background: url(/images/water.img) center;
+		background: url(./images/water.img) center;
 		background-size: cover;
 	}
 }
